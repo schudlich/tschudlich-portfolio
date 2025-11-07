@@ -5,11 +5,11 @@ url: "/courses/"
 summary: courses
 ---
 
-Jump to: [Master's of Science in Information (MSI)](#masters-of-science-in-information-msi), [Master's of Social Work (MSW)](#masters-of-social-work-msw), [Continuing Education (CE)]()
+Jump to: [Master's of Science in Information (MSI) 📖](#masters-of-science-in-information-msi), [Master's of Social Work (MSW) ❤️](#masters-of-social-work-msw), [Continuing Education (CE)]()
 
 ***
 
-## Master's of Science in Information (MSI)
+## Master's of Science in Information (MSI) 📖
 
 __University of Michigan | *Expected Graduation: May 2026*__\
 Libraries, Archives, and Knowledge Environments in Society
@@ -43,7 +43,7 @@ Libraries, Archives, and Knowledge Environments in Society
 
 ***
 
-## Master's of Social Work (MSW)
+## Master's of Social Work (MSW) ❤️
 
 __University of Michigan | August 2020 - December 2021__\
 Community Change and Trauma-Informed Practice

@@ -5,11 +5,11 @@ url: "/publications/"
 summary: publications
 ---
 
-Jump to: [Finding Aids](#finding-aids), [Coursework Writing](#coursework-writing)
+Jump to: [Finding Aids 🔍](#finding-aids), [Coursework Writing 📝](#coursework-writing)
 
 ***
 
-## Finding Aids
+## Finding Aids 🔍
 
 ### [Suzanne Kessler Papers](https://findingaids.lib.umich.edu/catalog/umich-scl-ams0219)
 
@@ -23,7 +23,7 @@ Jump to: [Finding Aids](#finding-aids), [Coursework Writing](#coursework-writing
 
 >This collection consists of letterpress, relief, and broadside prints created by artists affiliated with Signal-Return Press in Detroit, Michigan. The Signal-Return Collection has been organized chronologically and by document type.
 
-## Coursework Writing
+## Coursework Writing 📝
 
 ### [The Thomas Thistlewood Papers: Transparency and Archival Repair](https://schudlich.github.io/tschudlich-portfolio/posts/transparency-archival-repair/)
 
