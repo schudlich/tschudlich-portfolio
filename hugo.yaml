@@ -38,3 +38,7 @@ params:
       url: "https://github.com/schudlich"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/tannerschudlich"
+
+caches:
+  images:
+    dir: :cacheDir/images
