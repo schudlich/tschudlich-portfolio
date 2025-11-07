@@ -7,6 +7,7 @@ tags: ["archives", "ethics"]
 
 University of Michigan School of Information\
 SI 510 - Information Ethics\
+Winter 2025\
 Professor David Wallace, PhD
 ***
 
