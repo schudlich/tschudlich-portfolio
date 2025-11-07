@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tanner Schudlich 🌱</title>
-    <link>http://localhost:1313/tschudlich-portfolio/posts/</link>
-    <description>Recent content in Posts on Tanner Schudlich 🌱</description>
+    <title>Ethics on Tanner Schudlich 🌱</title>
+    <link>http://localhost:1313/tschudlich-portfolio/tags/ethics/</link>
+    <description>Recent content in Ethics on Tanner Schudlich 🌱</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2025 18:41:16 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tschudlich-portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tschudlich-portfolio/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Thomas Thistlewood Papers: Transparency and Archival Repair</title>
       <link>http://localhost:1313/tschudlich-portfolio/posts/transparency-archival-repair/</link>
