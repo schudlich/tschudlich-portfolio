@@ -24,3 +24,8 @@ Jump to: [Finding Aids](#finding-aids), [Coursework Writing](#coursework-writing
 >This collection consists of letterpress, relief, and broadside prints created by artists affiliated with Signal-Return Press in Detroit, Michigan. The Signal-Return Collection has been organized chronologically and by document type.
 
 ## Coursework Writing
+
+### [The Thomas Thistlewood Papers: Transparency and Archival Repair](https://schudlich.github.io/tschudlich-portfolio/posts/transparency-archival-repair/)
+
+University of Michigan School of Information\
+Information Ethics, Professor David Wallace, PhD
