@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Tanner Schudlich 🌱</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Posts on Tanner Schudlich 🌱</description>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2025 18:41:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>The Thomas Thistlewood Papers: Transparency and Archival Repair</title>
+      <link>http://localhost:1313/posts/transparency-archival-repair/</link>
       <pubDate>Thu, 06 Nov 2025 18:41:16 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/transparency-archival-repair/</guid>
+      <description>&lt;p&gt;University of Michigan School of Information&lt;br&gt;
+SI 510 - Information Ethics&lt;br&gt;
+Professor David Wallace, PhD&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The Yale University Beinecke Rare Books and Manuscripts Library purchased the Thomas Thistlewood Papers in 2011. This particular collection had become increasingly popular during the preceding half century while it was stored in the Lincolnshire Archives in the UK. After Yale’s acquisition of this collection, it was minimally processed by Diane Ducharme, a senior archivist working within the Beinecke Library, digitized, and made openly available online via the Yale Library Catalog website. This collection has been framed as one of the most thorough accounts of life in the Commonwealth Caribbean, given the 92 volumes of diaries covering the last half of the 18th century written by Thomas Thistlewood himself (Yale University Library, 2011). At face value, describing this collection as a collection of diaries makes it seem innocuous enough. Further examination of the diaries reveals a historical narrative of grotesque brutality and the realities of the horrors of slavery and plantations in the 18th century. Given the age of this collection, there have been numerous opportunities to re-represent it. The collection itself has changed hands many times and each transaction over the course of 300 years has brought with it some form of new arrangement to be influenced by the understanding of history at the moment. This analysis explores the responsibilities and complexities of how archivists can both ensure broad access to critical primary source material and mitigate the reproduction of violent politics, accurately describe traumatic and violent materials, and acknowledge the power inherent in archival work, libraries, and collections such as the Thomas Thistlewood Papers.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

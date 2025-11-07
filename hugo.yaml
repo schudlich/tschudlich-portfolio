@@ -1,3 +1,40 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Tanner Schudlich 🌱
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 30
+    - identifier: courses
+      name: Courses
+      url: /courses/
+      weight: 40
+    - identifier: blog
+      name: Writing
+      url: /posts/
+      weight: 50
+
+params:
+  homeInfoParams:
+    Title: Hi, friends 👋
+    Content: Welcome to my portfolio, where I hope you learn more about what I'm passionate about.
+
+  socialIcons: # optional
+    - name: "email"
+      url: "mailto:tannerschudlich@gmail.com"
+    - name: "github"
+      url: "https://github.com/schudlich"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/tannerschudlich"
