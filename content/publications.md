@@ -1,12 +1,11 @@
 ---
-title: "Writing & Publications"
+title: "Publications"
 layout: "publications"
 url: "/publications/"
 summary: publications
 ---
 
-Jump to: [Finding Aids 🔍](#finding-aids), [Coursework Writing 📝](#coursework-writing)
-
+Jump to: [Finding Aids 🔍](https://schudlich.github.io/tschudlich-portfolio/publications/#finding-aids-), [Coursework Writing 📝](https://schudlich.github.io/tschudlich-portfolio/publications/#coursework-writing-)
 ***
 
 ## Finding Aids 🔍

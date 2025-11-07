@@ -5,7 +5,7 @@ url: "/courses/"
 summary: courses
 ---
 
-Jump to: [Master's of Science in Information (MSI) 📖](#masters-of-science-in-information-msi), [Master's of Social Work (MSW) ❤️](#masters-of-social-work-msw), [Continuing Education (CE)]()
+Jump to: [Master's of Science in Information (MSI) 📖](https://schudlich.github.io/tschudlich-portfolio/courses/#masters-of-science-in-information-msi-), [Master's of Social Work (MSW) ❤️](https://schudlich.github.io/tschudlich-portfolio/courses/#masters-of-social-work-msw-), [Continuing Education (CE)]()
 
 ***
 
