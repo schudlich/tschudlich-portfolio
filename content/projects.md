@@ -5,7 +5,7 @@ url: "/projects/"
 summary: projects
 ---
 
-Jump to: [Archival Processing 🗃️](https://schudlich.github.io/tschudlich-portfolio/projects/#archival-processing-), [Coursework ✏️](hhttps://schudlich.github.io/tschudlich-portfolio/projects/#course-work-)
+Jump to: [Archival Processing 🗃️](https://schudlich.github.io/tschudlich-portfolio/projects/#archival-processing-), [Coursework ✏️](https://schudlich.github.io/tschudlich-portfolio/projects/#course-work-)
 ***
 
 ## Archival Processing 🗃️

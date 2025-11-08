@@ -11,10 +11,13 @@
     <loc>http://localhost:1313/tschudlich-portfolio/posts/</loc>
     <lastmod>2025-11-06T18:41:16-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tschudlich-portfolio/</loc>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/</loc>
     <lastmod>2025-11-06T18:41:16-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/posts/transparency-archival-repair/</loc>
+    <lastmod>2025-11-06T18:41:16-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/</loc>
     <lastmod>2025-11-06T18:41:16-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/about/</loc>
@@ -24,8 +27,6 @@
     <loc>http://localhost:1313/tschudlich-portfolio/courses/</loc>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tschudlich-portfolio/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/publications/</loc>
   </url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tanner Schudlich 🌱</title>
+    <title>Welcome on Tanner Schudlich 🌱</title>
     <link>http://localhost:1313/tschudlich-portfolio/</link>
-    <description>Recent content on Tanner Schudlich 🌱</description>
+    <description>Recent content in Welcome on Tanner Schudlich 🌱</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2025 18:41:16 -0500</lastBuildDate>
@@ -15,6 +15,7 @@
       <guid>http://localhost:1313/tschudlich-portfolio/posts/transparency-archival-repair/</guid>
       <description>&lt;p&gt;University of Michigan School of Information&lt;br&gt;
 SI 510 - Information Ethics&lt;br&gt;
+Winter 2025&lt;br&gt;
 Professor David Wallace, PhD&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -42,7 +43,7 @@ Professor David Wallace, PhD&lt;/p&gt;
       <description>projects</description>
     </item>
     <item>
-      <title>Writing &amp; Publications</title>
+      <title>Publications</title>
       <link>http://localhost:1313/tschudlich-portfolio/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tschudlich-portfolio/publications/</guid>

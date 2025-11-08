@@ -30,18 +30,6 @@ menu:
       url: /tags/
       weight: 60
 
-params:
-  homeInfoParams:
-    Title: Hi, friends 👋
-    Content: Welcome to my portfolio, where I hope you learn more about what I'm passionate about.
-
-  socialIcons: # optional
-    - name: "email"
-      url: "mailto:tannerschudlich@gmail.com"
-    - name: "github"
-      url: "https://github.com/schudlich"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/tannerschudlich"
 
 caches:
   images:
