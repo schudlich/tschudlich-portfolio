@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/tschudlich-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital National Security Archive Zine</title>
-      <link>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/</link>
+      <link>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/dnsa-zine/</link>
       <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
-      <guid>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Digital National Security Archive Zine&#34; loading=&#34;lazy&#34; src=&#34;img/SCHUDLICH_DNSA_zine.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/dnsa-zine/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Digital National Security Archive Zine&#34; loading=&#34;lazy&#34; src=&#34;SCHUDLICH_DNSA_zine.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Thomas Thistlewood Papers: Transparency and Archival Repair</title>
