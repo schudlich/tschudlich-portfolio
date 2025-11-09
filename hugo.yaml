@@ -30,7 +30,6 @@ menu:
       url: /tags/
       weight: 60
 
-
 caches:
   images:
     dir: :cacheDir/images

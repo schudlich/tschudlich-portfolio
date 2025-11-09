@@ -6,13 +6,41 @@
     <description>Recent content in Tags on Tanner Schudlich 🌱</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 18:41:16 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 08:24:26 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tschudlich-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
       <link>http://localhost:1313/tschudlich-portfolio/tags/archives/</link>
-      <pubDate>Thu, 06 Nov 2025 18:41:16 -0500</pubDate>
+      <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
       <guid>http://localhost:1313/tschudlich-portfolio/tags/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creative</title>
+      <link>http://localhost:1313/tschudlich-portfolio/tags/creative/</link>
+      <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
+      <guid>http://localhost:1313/tschudlich-portfolio/tags/creative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital</title>
+      <link>http://localhost:1313/tschudlich-portfolio/tags/digital/</link>
+      <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
+      <guid>http://localhost:1313/tschudlich-portfolio/tags/digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/tschudlich-portfolio/tags/project/</link>
+      <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
+      <guid>http://localhost:1313/tschudlich-portfolio/tags/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resource</title>
+      <link>http://localhost:1313/tschudlich-portfolio/tags/resource/</link>
+      <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
+      <guid>http://localhost:1313/tschudlich-portfolio/tags/resource/</guid>
       <description></description>
     </item>
     <item>
@@ -20,6 +48,13 @@
       <link>http://localhost:1313/tschudlich-portfolio/tags/ethics/</link>
       <pubDate>Thu, 06 Nov 2025 18:41:16 -0500</pubDate>
       <guid>http://localhost:1313/tschudlich-portfolio/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>http://localhost:1313/tschudlich-portfolio/tags/paper/</link>
+      <pubDate>Thu, 06 Nov 2025 18:41:16 -0500</pubDate>
+      <guid>http://localhost:1313/tschudlich-portfolio/tags/paper/</guid>
       <description></description>
     </item>
   </channel>

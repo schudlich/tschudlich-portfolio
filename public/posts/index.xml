@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/tschudlich-portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital National Security Archive Zine</title>
-      <link>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/dnsa-zine/</link>
+      <link>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/</link>
       <pubDate>Sat, 08 Nov 2025 08:24:26 -0500</pubDate>
-      <guid>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/dnsa-zine/</guid>
+      <guid>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/</guid>
       <description>&lt;p&gt;University of Michigan School of Information&lt;br&gt;
 SI 647 - Information Resources and Services&lt;br&gt;
 Fall 2025&lt;br&gt;
 Kristin Fontichiaro&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;This was designed for my Information Services and Resources course. I wanted to create an eye-catching, tangible advertisement for students and researchers at a University for this invaluable trove of government documents.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Digital National Security Archive Zine&#34; loading=&#34;lazy&#34; src=&#34;../schudlich_dnsa_zine.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Digital National Security Archive Zine&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/schudlich_dnsa_zine.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://nsarchive.gwu.edu/digital-national-security-archive&#34;&gt;&lt;em&gt;Digital National Security Archive (DNSA)&lt;/em&gt;&lt;/a&gt; is hosted by ProQuest in collaboration with the National Security Archives at George Washington University.&lt;/p&gt;</description>
     </item>
     <item>

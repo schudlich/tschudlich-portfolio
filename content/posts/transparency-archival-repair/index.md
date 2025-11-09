@@ -2,7 +2,7 @@
 date: '2025-11-06T18:41:16-05:00'
 draft: false
 title: 'The Thomas Thistlewood Papers: Transparency and Archival Repair'
-tags: ["archives", "ethics"]
+tags: ["archives", "ethics", "paper"]
 ---
 
 University of Michigan School of Information\

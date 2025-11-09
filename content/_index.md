@@ -15,5 +15,4 @@ Send a message to [tannerschudlich@gmail.com](mailto:tannerschudlich@gmail.com)
 
 ***
 
-
-### Read some of my latest writing:
+### Check out some of my latest work:

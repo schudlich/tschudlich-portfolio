@@ -2,28 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/dnsa-zine/</loc>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/archives/</loc>
+    <lastmod>2025-11-08T08:24:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/creative/</loc>
+    <lastmod>2025-11-08T08:24:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/digital/</loc>
+    <lastmod>2025-11-08T08:24:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/posts/dnsa-zine/</loc>
     <lastmod>2025-11-08T08:24:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/posts/</loc>
     <lastmod>2025-11-08T08:24:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tschudlich-portfolio/</loc>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/project/</loc>
     <lastmod>2025-11-08T08:24:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tschudlich-portfolio/tags/archives/</loc>
-    <lastmod>2025-11-06T18:41:16-05:00</lastmod>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/resource/</loc>
+    <lastmod>2025-11-08T08:24:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/</loc>
+    <lastmod>2025-11-08T08:24:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/</loc>
+    <lastmod>2025-11-08T08:24:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/tags/ethics/</loc>
     <lastmod>2025-11-06T18:41:16-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tschudlich-portfolio/tags/</loc>
+    <loc>http://localhost:1313/tschudlich-portfolio/tags/paper/</loc>
     <lastmod>2025-11-06T18:41:16-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tschudlich-portfolio/posts/transparency-archival-repair/</loc>
+    <loc>http://localhost:1313/tschudlich-portfolio/posts/transparency-archival-repair/transparency-archival-repair/</loc>
     <lastmod>2025-11-06T18:41:16-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tschudlich-portfolio/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/tschudlich-portfolio/categories/</loc>
   </url><url>
